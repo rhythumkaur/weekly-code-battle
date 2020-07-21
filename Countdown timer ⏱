@@ -1,0 +1,29 @@
+LOGIC IMPLEMENTED 
+Firstly I had import time function so that we can use time functions.
+Then I had used input function to take input from user that for how much seconds to need to 
+count down. Then after that a for loop is being used to count backwards 
+and then sleep function. And finally when countdown will be over a message will come "You were Deceived"
+
+
+
+
+
+
+
+SOLUTION 
+
+import time
+#this will allow us to use time functions
+
+seconds = int(input("How many seconds?"))
+#asking the user for how many seconds we want to count down
+
+#use a ranged loop to count downwards
+for i in range(seconds):
+  print(str(seconds - i )+ "seconds remain")
+  
+  time.sleep(1)
+  #python sleep for 1 second between each iteration
+  
+  
+print("You were Deceived")
