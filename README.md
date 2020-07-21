@@ -1,4 +1,4 @@
-# weekly-code-battle
-Week-7 
+Python let's upgrade 
 
 Python Assignments
+Weekly code battle
