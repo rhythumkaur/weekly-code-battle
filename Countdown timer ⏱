@@ -1,8 +1,11 @@
 LOGIC IMPLEMENTED 
 Firstly I had import time function so that we can use time functions.
-Then I had used input function to take input from user that for how much seconds to need to 
-count down. Then after that a for loop is being used to count backwards 
-and then sleep function. And finally when countdown will be over a message will come "You were Deceived"
+Then I had used input function to take input from user that for how much 
+seconds to need to countdown.
+Then after that a for loop is being 
+used to count backwards 
+and then sleep function.
+ And finally when countdown will be over a message will come "You were Deceived"
 
 
 
